@@ -1,0 +1,19 @@
+.intro h2 {
+  color: blue;
+
+}
+.intro p {
+  color: red;
+  
+}
+.intro img {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+.intro p{
+  color: red;
+}
+.intro {
+  text-align: center;
+}
