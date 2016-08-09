@@ -4,7 +4,7 @@
 }
 .intro p {
   color: red;
-  
+
 }
 .intro img {
   display: block;
@@ -16,4 +16,18 @@
 }
 .intro {
   text-align: center;
+
+}
+.clickable {
+  cursor: pointer;
+  color: purple;
+}
+
+.default {
+  background-color: none;
+}
+
+.highlight {
+ border: outset ;
+ background-color: yellow;
 }
