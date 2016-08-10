@@ -1,7 +1,7 @@
 $(function() {
   $(".clickable").click(function() {
-    $("p").removeClass();
-    $("p").addClass("highlight");
+    // $("p").removeClass();
+    $("p").toggleClass("highlight");
 
   });
 });
